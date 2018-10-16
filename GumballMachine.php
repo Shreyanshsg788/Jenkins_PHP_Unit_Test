@@ -1,6 +1,6 @@
 class GumballMachine{
     private $gumballs;
-
+//Sample code
     // Get the amount of gumballs still in the maching
     public function getGumballs(){
         return $this->gumballs;
